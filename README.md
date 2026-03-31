@@ -3,4 +3,6 @@ Interactive website for cyber incidents response plan and procedure for cybersec
 
 The live website can be accessed here: https://njmdexej.manus.space/
 
+![Alt text for the image](/incident.png)
+
 
